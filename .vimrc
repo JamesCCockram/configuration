@@ -6,6 +6,7 @@ set showmode
 set showcmd
 set hlsearch
 set ttyfast
+highlight Comment ctermfg=green
 
 " Colors
 set t_Co=256
