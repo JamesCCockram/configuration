@@ -3,7 +3,6 @@ set number
 set ruler
 set laststatus=2
 set showmode
-set showcmd
 set hlsearch
 set ttyfast
 highlight Comment ctermfg=green
